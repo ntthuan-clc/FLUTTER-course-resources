@@ -1,5 +1,5 @@
 # Flutter-Course-Resources
-
+![Flutter](https://img.shields.io/badge/-Flutter-red?&logo=Flutter&logoColor=00ADD8)
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
